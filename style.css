@@ -1,0 +1,253 @@
+.up{
+    background-color: #eaf6f6;
+}
+.zee{
+    text-align: center;
+    font-size: 70px;
+    font-family: sacramento, cursive;
+    color: #66bfbf;
+    
+}
+.pro{
+    text-align: center;
+    font-size: 40px;
+    color: #66bfbf;
+}
+.mountain{
+    margin-left: 300px;
+}
+.png{
+    margin-left: 800px;
+    padding-top: 30px;
+}
+.cloud{
+    margin-left: 270px;
+}
+.logo{
+    height: 300px;
+    width: 300px;
+    background-color: #eaf6f6;
+    border-radius: 50%;
+    margin-left: 500px;
+    padding-top: -20px;
+}
+.z{
+    text-align: center;
+    font-size: 200px;
+    padding-top: 1px;
+}
+.hello{
+    font-size: 50px;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-left: 50px;
+    color: #66bfbf;
+}
+.web{
+    text-align: center;
+    margin-left: 50px;
+}
+.app{
+    text-align: center;
+    margin-left: 50px;
+}
+hr{
+    border: dotted #eaf6f6 6px;
+   border-bottom: none;
+   width: 4%;
+   margin: 10%;
+   margin-left: 620px;
+}
+.skills{
+    color: #66bfbf;
+    text-align: center;
+    font-size: 50px;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+}
+.dev{
+    margin-left: 520px;
+    margin-top: -250px;
+    color: #66bfbf;
+}
+.learn{
+    width: 30%;
+    margin-left: 520px;
+}
+.cat{
+    margin-left: 260px;
+}
+.over{
+    width: 30%;
+    margin-left: 520px;
+    margin-top: -10px;
+}
+.chilles{
+    padding-top: 200px;
+    margin-left: 210px;
+}
+.hot{
+    margin-left: 580px;
+    margin-top: -300px;
+    color:#66bfbf;  
+}
+.wings{
+    width: 30%;
+    margin-left: 580px;
+}
+.rh{
+    margin-top: 300px;
+}
+.touch{
+    font-size: 40px;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #66bfbf;
+    text-align: center;
+}
+.love{
+    text-align: center;
+    color: #66bfbf;
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.awe{
+    text-align: center;
+    font-size: 20px;
+}
+.code{
+    text-align: center;
+    font-size: 20px;
+}
+button{
+    margin-left: 520px;
+    color:  white;
+    height: 50px;
+    width: 180px;
+    border-radius: 10%;
+    background-color: #66bfbf; 
+}
+a{
+    color: black;
+    margin-left: 50px;
+    text-decoration: none;
+    text-align: center;
+}
+.link{
+    background-color: #66bfbf ;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.b{
+    text-align: center;
+    color: white;
+}
+ul{
+    margin-left: 400px;
+}
+li{
+    display: inline-block;
+}
+@media(max-width:800px){
+    .zee{
+        font-size: 25px;
+    }
+    .pro{
+        font-size: 15px;
+    }
+    .mountain{
+        width:200px;
+        height: 200px;
+        margin: auto;
+    }
+    .png{
+        width: 50px;
+        height: 25px;
+        margin: auto;
+    }
+    .cloud{
+        width:50px;
+        height: 25px;
+        margin: auto;
+    }
+    .logo{
+        width: 100px;
+        height: 100px;
+        margin: auto;
+    }
+    .z{
+        font-size:50px ;
+        padding-top: 10px;
+    }
+    .hello{
+        font-size: 20px;
+        margin: auto;
+    }
+    .web{
+        margin: auto;
+    }
+    .app{
+        margin: auto;
+    }
+    .skills{
+        font-size: 20px;
+        margin: auto;
+    } 
+    .cat{
+        width: 150px;
+        height: 150px;
+        display: block;
+        margin: auto;
+    }
+    .dev{
+        display: block;
+        margin: auto;
+    }  
+    .learn{
+        display: block;
+        margin: auto;
+        width: 100%;
+    } 
+    .over{
+        width: 100%;
+        display: block;
+        margin: auto;
+    }
+    .chilles{
+        display: block;
+        margin: auto;
+        width: 200px;
+        height: 200px;
+        margin-top: -150px;
+    }
+    .hot{
+        display: block;
+        margin: auto;
+    }
+    .wings{
+        width: 100%;
+        margin: auto;
+        display: block;
+    }
+    .rh{
+    margin: auto;
+    margin-top: 50px;
+    }
+    button{
+        margin: auto;
+        margin-left: 50px;
+    }
+    ul{
+       margin:auto ; 
+       padding: 0%;
+    }
+    .link{
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+
+    }
+    
